@@ -49,4 +49,4 @@ To run this project, you'll need the following Python libraries:
 Image-to-Sketch
 ├── harry_potter_cloak.py         # Main script for functioning
 ├── requirements.txt
-├── output.avi                    # this is created after running the main script (once the video is captured, it is saved on this location)
+├── output.avi                    # this is created after running the main script (once the video is captured, it is saved on this location automatically)
