@@ -36,6 +36,12 @@ To run this project, you'll need the following Python libraries:
    ```bash
    pip install -r requirements.txt
    ```
+4.  **Run the main script**:
+    Execute the Python script to process the video:
+    ```bash
+    python harry_potter_cloak.py
+    ```
+
 
 
 ## 🗂️ Project Structure
@@ -43,10 +49,3 @@ To run this project, you'll need the following Python libraries:
 Image-to-Sketch
 ├── harry_potter_cloak.py         # Main script for functioning
 ├── requirements.txt
-
-
-
-
-
-
-
